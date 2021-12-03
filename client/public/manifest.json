@@ -1,0 +1,17 @@
+{
+  "short_name": "Parkmanager Corp App",
+  "name": "Parkmanager Corp for test dev",
+  "icons": [
+    {
+      "src": "/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "prefer_related_applications": true
+}
